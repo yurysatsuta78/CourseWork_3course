@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CourseWork_3course\\Kursovaya3kurs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\visits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\visits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\timecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\timecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\sportobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\sportobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\paidvisits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\paidvisits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\classes\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\classes\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\showvisitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\showvisitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|D:\\CourseWork_3course\\Kursovaya3kurs\\kursovaya3kurs\\studentseditingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\studentseditingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|D:\\CourseWork_3course\\Kursovaya3kurs\\kursovaya3kurs\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|D:\\CourseWork_3course\\Kursovaya3kurs\\kursovaya3kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|D:\\CourseWork_3course\\Kursovaya3kurs\\kursovaya3kurs\\paidvisitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\paidvisitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\studentseditingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\studentseditingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|D:\\CourseWork_3course\\Kursovaya3kurs\\kursovaya3kurs\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|d:\\coursework_3course\\kursovaya3kurs\\kursovaya3kurs\\paidvisitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA721A1-ECEC-4251-8EF1-7C69A4E1772B}|Kursovaya3kurs\\Kursovaya3kurs.csproj|solutionrelative:kursovaya3kurs\\paidvisitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visits.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Visits.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\Visits.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Visits.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\Visits.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:34:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeComparer.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\TimeComparer.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\TimeComparer.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\TimeComparer.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\TimeComparer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:33:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Student.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\Student.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Student.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:33:50.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SportObject.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\SportObject.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\SportObject.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\SportObject.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\SportObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:33:47.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Schedule.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\Schedule.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Schedule.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:33:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaidVisits.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\PaidVisits.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\PaidVisits.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\PaidVisits.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\PaidVisits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:33:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Group.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\Group.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Group.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:33:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Account.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\classes\\Account.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\classes\\Account.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\classes\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:33:36.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthForm.cs [Design]",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\AuthForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\AuthForm.cs",
+              "ToolTip": "D:\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\AuthForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\AuthForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:16:03.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsEditingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\StudentsEditingForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\StudentsEditingForm.cs",
+              "ToolTip": "D:\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\StudentsEditingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\StudentsEditingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:55:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChartForm.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\ChartForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\ChartForm.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\ChartForm.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\ChartForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:04:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaidVisitsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\PaidVisitsForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\PaidVisitsForm.cs",
+              "ToolTip": "D:\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\PaidVisitsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\PaidVisitsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:51:59.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowVisitsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\ShowVisitsForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\ShowVisitsForm.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\ShowVisitsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Kursovaya3kurs\\ShowVisitsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:13:55.33Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentsEditingForm.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\StudentsEditingForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\StudentsEditingForm.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\StudentsEditingForm.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\StudentsEditingForm.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAApwJkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:55:41.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\Form1.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\Form1.cs",
+              "ToolTip": "D:\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:00:25.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\Form1.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\Form1.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\Form1.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\Form1.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAawGkAAADRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:08:21.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\ChartForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\ChartForm.cs",
+              "ToolTip": "D:\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\visu\\Kursovaya3kurs\\Kursovaya3kurs\\ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:51:20.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaidVisitsForm.cs",
+              "DocumentMoniker": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\PaidVisitsForm.cs",
+              "RelativeDocumentMoniker": "Kursovaya3kurs\\PaidVisitsForm.cs",
+              "ToolTip": "D:\\CourseWork_3course\\Kursovaya3kurs\\Kursovaya3kurs\\PaidVisitsForm.cs",
+              "RelativeToolTip": "Kursovaya3kurs\\PaidVisitsForm.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAD4v1gAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:52:12.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
